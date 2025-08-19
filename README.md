@@ -1,8 +1,10 @@
-# Events & Program Operations
+# Moderation & Knowledge Tagging
 
-Operational analytics for events, monthly challenges, academy courses, and contributors. Includes an Excel data model, SQL, and an annotated notebook.
+Monitor moderation health, SLAs, and tagging coverage to ensure a cohesive, welcoming community experience.
 
 ## Files
-- `events_programs_ops.xlsx` — events, challenges, academy_courses, contributors (sheets)
-- `ops_sql.sql` — SQL for attendance, NPS, conversion, contributors
-- `Events_Ops_Analysis.ipynb` — annotated notebook
+- `posts.csv` — posts with topics, tags, engagement
+- `moderation_queue.csv` — queue items with status and assignee
+- `sla.csv` — first response & resolution times
+- `moderation_sql.sql` — SQL for queue health, SLA, tags, workload
+- `Moderation_Analytics.ipynb` — annotated notebook
