@@ -1,0 +1,401 @@
+message_id,send_time,channel,segment,program,subject,opens,clicks,replies,unsubscribes,audience_size,open_rate,ctr,reply_rate
+M0000,2024-01-01,Email,Active Builders,Best Practices Post,Don’t miss tomorrow’s AMA,175,54,5,1,950,0.184,0.057,0.005
+M0001,2024-01-04,Email,Customers,Feature Launch,Don’t miss tomorrow’s AMA,179,59,13,0,1923,0.093,0.031,0.007
+M0002,2024-01-07,Email,Customers,Best Practices Post,Release notes & improvements,180,72,11,0,316,0.57,0.228,0.035
+M0003,2024-01-07,Announcement,Active Builders,Academy Course,Join this week’s challenge,193,41,11,1,1167,0.165,0.035,0.009
+M0004,2024-01-10,Email,Active Builders,Monthly Challenge,New Academy course live,188,62,6,0,1847,0.102,0.034,0.003
+M0005,2024-01-13,Email,Customers,Feature Launch,Join this week’s challenge,185,66,10,0,1611,0.115,0.041,0.006
+M0006,2024-01-13,Email,Contributors,Live Event,New Academy course live,184,52,11,0,950,0.194,0.055,0.012
+M0007,2024-01-16,Announcement,Active Builders,Monthly Challenge,Top tips from the community,187,64,5,0,1501,0.125,0.043,0.003
+M0008,2024-01-19,Email,New Members,Live Event,New Academy course live,152,60,11,0,1627,0.093,0.037,0.007
+M0009,2024-01-21,DM,Contributors,Live Event,Don’t miss tomorrow’s AMA,179,59,13,0,354,0.506,0.167,0.037
+M0010,2024-01-23,Email,Customers,Live Event,Top tips from the community,165,64,6,0,517,0.319,0.124,0.012
+M0011,2024-01-23,Announcement,Customers,Best Practices Post,Join this week’s challenge,172,51,11,0,1947,0.088,0.026,0.006
+M0012,2024-01-27,DM,New Members,Monthly Challenge,Don’t miss tomorrow’s AMA,175,66,9,0,1873,0.093,0.035,0.005
+M0013,2024-01-27,Email,Lurkers,Best Practices Post,Don’t miss tomorrow’s AMA,177,62,11,1,1636,0.108,0.038,0.007
+M0014,2024-01-29,Announcement,Contributors,Feature Launch,Release notes & improvements,196,72,5,0,1163,0.169,0.062,0.004
+M0015,2024-01-31,Email,Contributors,Feature Launch,Top tips from the community,182,66,7,1,1883,0.097,0.035,0.004
+M0016,2024-02-02,DM,New Members,Live Event,New Academy course live,171,72,8,0,1211,0.141,0.059,0.007
+M0017,2024-02-06,DM,Lurkers,Academy Course,Join this week’s challenge,188,60,16,1,996,0.189,0.06,0.016
+M0018,2024-02-08,Email,Customers,Feature Launch,Top tips from the community,197,51,10,1,1442,0.137,0.035,0.007
+M0019,2024-02-08,Email,Active Builders,Live Event,Join this week’s challenge,181,65,10,1,1744,0.104,0.037,0.006
+M0020,2024-02-10,Email,Contributors,Feature Launch,Join this week’s challenge,139,61,8,0,690,0.201,0.088,0.012
+M0021,2024-02-13,Email,Lurkers,Monthly Challenge,Release notes & improvements,168,48,16,1,1730,0.097,0.028,0.009
+M0022,2024-02-14,Email,Active Builders,Academy Course,Don’t miss tomorrow’s AMA,184,61,10,1,1470,0.125,0.041,0.007
+M0023,2024-02-16,Email,Active Builders,Feature Launch,Don’t miss tomorrow’s AMA,172,56,13,0,772,0.223,0.073,0.017
+M0024,2024-02-19,Announcement,Customers,Academy Course,Release notes & improvements,184,51,17,0,1352,0.136,0.038,0.013
+M0025,2024-02-20,Email,Active Builders,Feature Launch,Join this week’s challenge,189,58,16,2,1936,0.098,0.03,0.008
+M0026,2024-02-23,DM,Contributors,Academy Course,Don’t miss tomorrow’s AMA,172,78,10,2,1874,0.092,0.042,0.005
+M0027,2024-02-24,Email,Active Builders,Monthly Challenge,Release notes & improvements,170,54,9,0,1650,0.103,0.033,0.005
+M0028,2024-02-28,Email,Customers,Best Practices Post,Top tips from the community,172,61,11,0,1913,0.09,0.032,0.006
+M0029,2024-02-28,DM,New Members,Feature Launch,New Academy course live,180,57,11,1,1137,0.158,0.05,0.01
+M0030,2024-03-02,Announcement,Lurkers,Best Practices Post,Join this week’s challenge,178,61,14,0,1918,0.093,0.032,0.007
+M0031,2024-03-05,Email,Lurkers,Monthly Challenge,Join this week’s challenge,194,71,10,1,1632,0.119,0.044,0.006
+M0032,2024-03-07,Email,Active Builders,Academy Course,Don’t miss tomorrow’s AMA,173,63,9,1,570,0.304,0.111,0.016
+M0033,2024-03-07,Announcement,Contributors,Monthly Challenge,Release notes & improvements,183,55,7,0,1255,0.146,0.044,0.006
+M0034,2024-03-11,Email,Contributors,Academy Course,New Academy course live,174,50,12,0,689,0.253,0.073,0.017
+M0035,2024-03-12,Email,Contributors,Feature Launch,New Academy course live,168,59,9,0,1803,0.093,0.033,0.005
+M0036,2024-03-13,DM,Contributors,Monthly Challenge,New Academy course live,199,57,15,0,1252,0.159,0.046,0.012
+M0037,2024-03-15,Announcement,New Members,Feature Launch,Don’t miss tomorrow’s AMA,203,70,9,0,722,0.281,0.097,0.012
+M0038,2024-03-18,Announcement,Lurkers,Monthly Challenge,Top tips from the community,161,54,4,1,879,0.183,0.061,0.005
+M0039,2024-03-19,DM,Contributors,Live Event,New Academy course live,163,58,9,1,1747,0.093,0.033,0.005
+M0040,2024-03-21,Email,Contributors,Feature Launch,Top tips from the community,174,62,14,0,1479,0.118,0.042,0.009
+M0041,2024-03-25,Announcement,Active Builders,Academy Course,Release notes & improvements,198,51,14,0,1257,0.158,0.041,0.011
+M0042,2024-03-26,Announcement,Contributors,Live Event,Don’t miss tomorrow’s AMA,173,69,5,0,1820,0.095,0.038,0.003
+M0043,2024-03-27,Announcement,Contributors,Monthly Challenge,Don’t miss tomorrow’s AMA,179,65,6,1,1830,0.098,0.036,0.003
+M0044,2024-03-29,DM,Contributors,Academy Course,Top tips from the community,207,59,7,1,1173,0.176,0.05,0.006
+M0045,2024-03-31,Email,Lurkers,Live Event,Top tips from the community,181,72,12,0,1741,0.104,0.041,0.007
+M0046,2024-04-04,Email,New Members,Feature Launch,Don’t miss tomorrow’s AMA,196,54,8,1,932,0.21,0.058,0.009
+M0047,2024-04-05,Email,New Members,Best Practices Post,Release notes & improvements,198,54,15,0,1911,0.104,0.028,0.008
+M0048,2024-04-06,DM,New Members,Feature Launch,Join this week’s challenge,200,67,8,1,1302,0.154,0.051,0.006
+M0049,2024-04-09,Announcement,Contributors,Academy Course,Join this week’s challenge,168,49,11,1,1991,0.084,0.025,0.006
+M0050,2024-04-10,Email,Lurkers,Monthly Challenge,New Academy course live,174,63,10,1,1338,0.13,0.047,0.007
+M0051,2024-04-12,DM,New Members,Academy Course,Top tips from the community,170,49,14,0,419,0.406,0.117,0.033
+M0052,2024-04-15,Email,Contributors,Live Event,New Academy course live,190,42,10,1,1867,0.102,0.022,0.005
+M0053,2024-04-16,DM,New Members,Best Practices Post,New Academy course live,166,61,6,1,764,0.217,0.08,0.008
+M0054,2024-04-19,Email,Lurkers,Feature Launch,Join this week’s challenge,166,61,8,0,684,0.243,0.089,0.012
+M0055,2024-04-21,Email,Customers,Monthly Challenge,Top tips from the community,174,57,10,0,1897,0.092,0.03,0.005
+M0056,2024-04-22,Email,Customers,Live Event,Release notes & improvements,166,54,11,0,1965,0.084,0.027,0.006
+M0057,2024-04-25,Email,Customers,Academy Course,Top tips from the community,155,53,5,2,1689,0.092,0.031,0.003
+M0058,2024-04-28,Announcement,Contributors,Live Event,Join this week’s challenge,181,62,11,0,1400,0.129,0.044,0.008
+M0059,2024-04-29,Email,New Members,Monthly Challenge,Join this week’s challenge,196,67,5,2,303,0.647,0.221,0.017
+M0060,2024-05-01,Announcement,Lurkers,Feature Launch,Don’t miss tomorrow’s AMA,179,51,16,0,1597,0.112,0.032,0.01
+M0061,2024-05-03,DM,Lurkers,Live Event,New Academy course live,199,59,7,1,1107,0.18,0.053,0.006
+M0062,2024-05-05,Email,New Members,Best Practices Post,New Academy course live,221,67,6,1,535,0.413,0.125,0.011
+M0063,2024-05-07,DM,New Members,Academy Course,Release notes & improvements,198,56,16,2,1450,0.137,0.039,0.011
+M0064,2024-05-10,Email,Lurkers,Academy Course,Don’t miss tomorrow’s AMA,183,48,9,0,1559,0.117,0.031,0.006
+M0065,2024-05-12,Announcement,Customers,Feature Launch,Top tips from the community,174,58,9,0,1505,0.116,0.039,0.006
+M0066,2024-05-14,Email,New Members,Academy Course,Top tips from the community,210,53,9,0,327,0.642,0.162,0.028
+M0067,2024-05-15,DM,New Members,Feature Launch,Don’t miss tomorrow’s AMA,206,62,9,0,415,0.496,0.149,0.022
+M0068,2024-05-18,Email,Customers,Academy Course,Top tips from the community,189,56,8,0,1181,0.16,0.047,0.007
+M0069,2024-05-18,Email,New Members,Live Event,Don’t miss tomorrow’s AMA,181,59,16,2,1646,0.11,0.036,0.01
+M0070,2024-05-20,Announcement,Customers,Academy Course,Top tips from the community,167,54,8,0,1125,0.148,0.048,0.007
+M0071,2024-05-23,Email,Contributors,Academy Course,Don’t miss tomorrow’s AMA,207,76,9,0,1855,0.112,0.041,0.005
+M0072,2024-05-25,DM,New Members,Monthly Challenge,New Academy course live,180,82,8,0,1331,0.135,0.062,0.006
+M0073,2024-05-27,DM,Contributors,Best Practices Post,Don’t miss tomorrow’s AMA,203,45,7,0,1333,0.152,0.034,0.005
+M0074,2024-05-28,Email,Customers,Live Event,New Academy course live,189,65,10,0,1899,0.1,0.034,0.005
+M0075,2024-06-01,Announcement,Active Builders,Academy Course,Don’t miss tomorrow’s AMA,181,58,13,0,970,0.187,0.06,0.013
+M0076,2024-06-03,Announcement,Lurkers,Best Practices Post,Release notes & improvements,176,50,10,0,506,0.348,0.099,0.02
+M0077,2024-06-03,Email,Lurkers,Live Event,New Academy course live,169,53,7,0,1911,0.088,0.028,0.004
+M0078,2024-06-05,DM,New Members,Live Event,Join this week’s challenge,156,60,11,0,1801,0.087,0.033,0.006
+M0079,2024-06-08,Email,Customers,Monthly Challenge,New Academy course live,167,65,6,0,501,0.333,0.13,0.012
+M0080,2024-06-09,DM,Active Builders,Feature Launch,Don’t miss tomorrow’s AMA,186,65,6,1,1737,0.107,0.037,0.003
+M0081,2024-06-11,Email,Customers,Live Event,Join this week’s challenge,208,51,11,0,1170,0.178,0.044,0.009
+M0082,2024-06-13,DM,Contributors,Best Practices Post,Release notes & improvements,193,59,12,0,907,0.213,0.065,0.013
+M0083,2024-06-15,DM,Customers,Monthly Challenge,Release notes & improvements,182,40,10,0,617,0.295,0.065,0.016
+M0084,2024-06-19,DM,Lurkers,Monthly Challenge,Join this week’s challenge,194,73,11,1,653,0.297,0.112,0.017
+M0085,2024-06-21,Email,Active Builders,Live Event,Don’t miss tomorrow’s AMA,185,48,8,0,486,0.381,0.099,0.016
+M0086,2024-06-23,Announcement,Lurkers,Best Practices Post,Top tips from the community,162,53,12,1,923,0.176,0.057,0.013
+M0087,2024-06-24,Email,Active Builders,Best Practices Post,Don’t miss tomorrow’s AMA,160,51,15,1,844,0.19,0.06,0.018
+M0088,2024-06-27,Announcement,Customers,Live Event,New Academy course live,155,61,13,0,316,0.491,0.193,0.041
+M0089,2024-06-28,Email,Lurkers,Academy Course,Join this week’s challenge,172,67,17,1,1131,0.152,0.059,0.015
+M0090,2024-06-29,Email,Customers,Best Practices Post,Don’t miss tomorrow’s AMA,188,59,16,0,608,0.309,0.097,0.026
+M0091,2024-07-01,DM,Customers,Monthly Challenge,New Academy course live,191,55,11,1,1790,0.107,0.031,0.006
+M0092,2024-07-04,Announcement,Lurkers,Feature Launch,New Academy course live,188,50,8,0,1214,0.155,0.041,0.007
+M0093,2024-07-05,DM,New Members,Live Event,Don’t miss tomorrow’s AMA,160,56,8,3,749,0.214,0.075,0.011
+M0094,2024-07-09,Announcement,Contributors,Live Event,Don’t miss tomorrow’s AMA,184,51,10,0,558,0.33,0.091,0.018
+M0095,2024-07-11,Email,Contributors,Monthly Challenge,New Academy course live,164,54,6,1,1183,0.139,0.046,0.005
+M0096,2024-07-12,Email,Lurkers,Live Event,Join this week’s challenge,172,59,13,0,1162,0.148,0.051,0.011
+M0097,2024-07-15,Email,Contributors,Academy Course,Join this week’s challenge,159,65,11,0,1141,0.139,0.057,0.01
+M0098,2024-07-16,DM,Customers,Feature Launch,New Academy course live,150,69,8,2,1352,0.111,0.051,0.006
+M0099,2024-07-17,Email,Active Builders,Live Event,Top tips from the community,141,63,4,2,789,0.179,0.08,0.005
+M0100,2024-07-20,Email,Customers,Academy Course,Top tips from the community,187,58,14,1,1795,0.104,0.032,0.008
+M0101,2024-07-23,Email,New Members,Monthly Challenge,Release notes & improvements,180,54,9,0,1471,0.122,0.037,0.006
+M0102,2024-07-24,Email,Active Builders,Monthly Challenge,Don’t miss tomorrow’s AMA,179,55,7,0,1549,0.116,0.036,0.005
+M0103,2024-07-25,Email,New Members,Academy Course,Don’t miss tomorrow’s AMA,167,68,8,0,1093,0.153,0.062,0.007
+M0104,2024-07-27,Email,Contributors,Best Practices Post,Top tips from the community,175,62,10,0,1893,0.092,0.033,0.005
+M0105,2024-07-30,Email,Customers,Monthly Challenge,Don’t miss tomorrow’s AMA,175,51,16,1,1554,0.113,0.033,0.01
+M0106,2024-08-01,Email,Customers,Academy Course,Release notes & improvements,189,68,10,0,1401,0.135,0.049,0.007
+M0107,2024-08-03,Announcement,Lurkers,Academy Course,New Academy course live,179,76,9,0,871,0.206,0.087,0.01
+M0108,2024-08-06,Email,New Members,Monthly Challenge,Release notes & improvements,184,62,6,1,1921,0.096,0.032,0.003
+M0109,2024-08-06,DM,New Members,Live Event,Don’t miss tomorrow’s AMA,182,62,5,1,1574,0.116,0.039,0.003
+M0110,2024-08-08,DM,Customers,Feature Launch,Join this week’s challenge,176,57,15,1,443,0.397,0.129,0.034
+M0111,2024-08-12,Email,Active Builders,Live Event,Join this week’s challenge,202,58,8,0,1084,0.186,0.054,0.007
+M0112,2024-08-14,Email,Lurkers,Monthly Challenge,Don’t miss tomorrow’s AMA,192,64,8,0,1896,0.101,0.034,0.004
+M0113,2024-08-16,Announcement,Contributors,Monthly Challenge,Join this week’s challenge,175,61,5,1,1381,0.127,0.044,0.004
+M0114,2024-08-16,Email,Lurkers,Live Event,Top tips from the community,179,59,12,0,594,0.301,0.099,0.02
+M0115,2024-08-20,DM,Customers,Live Event,New Academy course live,168,68,7,0,1191,0.141,0.057,0.006
+M0116,2024-08-20,Announcement,Active Builders,Monthly Challenge,New Academy course live,175,50,13,1,989,0.177,0.051,0.013
+M0117,2024-08-24,Email,Active Builders,Academy Course,Join this week’s challenge,193,71,8,1,1216,0.159,0.058,0.007
+M0118,2024-08-26,Announcement,Contributors,Best Practices Post,Join this week’s challenge,181,58,8,0,1123,0.161,0.052,0.007
+M0119,2024-08-28,DM,Customers,Feature Launch,New Academy course live,148,69,11,0,753,0.197,0.092,0.015
+M0120,2024-08-28,DM,Customers,Academy Course,Don’t miss tomorrow’s AMA,178,63,8,1,1481,0.12,0.043,0.005
+M0121,2024-08-31,DM,Active Builders,Live Event,New Academy course live,194,60,10,0,984,0.197,0.061,0.01
+M0122,2024-09-02,Email,Active Builders,Feature Launch,Release notes & improvements,186,56,7,1,539,0.345,0.104,0.013
+M0123,2024-09-05,DM,Active Builders,Best Practices Post,Release notes & improvements,194,66,7,1,1286,0.151,0.051,0.005
+M0124,2024-09-07,Email,New Members,Monthly Challenge,Don’t miss tomorrow’s AMA,167,56,13,0,903,0.185,0.062,0.014
+M0125,2024-09-08,Announcement,New Members,Feature Launch,Don’t miss tomorrow’s AMA,184,61,5,1,988,0.186,0.062,0.005
+M0126,2024-09-10,DM,Contributors,Feature Launch,Join this week’s challenge,183,56,9,1,1446,0.127,0.039,0.006
+M0127,2024-09-12,Email,Contributors,Feature Launch,Top tips from the community,172,71,9,0,603,0.285,0.118,0.015
+M0128,2024-09-15,Email,New Members,Feature Launch,Don’t miss tomorrow’s AMA,182,71,4,1,1376,0.132,0.052,0.003
+M0129,2024-09-15,Announcement,New Members,Feature Launch,Join this week’s challenge,180,67,5,0,949,0.19,0.071,0.005
+M0130,2024-09-18,Announcement,New Members,Best Practices Post,Don’t miss tomorrow’s AMA,177,63,7,0,583,0.304,0.108,0.012
+M0131,2024-09-19,Email,Active Builders,Live Event,Release notes & improvements,172,56,8,0,528,0.326,0.106,0.015
+M0132,2024-09-21,Email,Customers,Academy Course,Release notes & improvements,193,49,7,0,409,0.472,0.12,0.017
+M0133,2024-09-25,Email,Active Builders,Feature Launch,Release notes & improvements,171,53,11,1,924,0.185,0.057,0.012
+M0134,2024-09-26,Announcement,New Members,Live Event,New Academy course live,168,56,6,0,899,0.187,0.062,0.007
+M0135,2024-09-28,Email,New Members,Best Practices Post,Join this week’s challenge,182,54,6,1,1251,0.145,0.043,0.005
+M0136,2024-09-30,Announcement,New Members,Best Practices Post,Join this week’s challenge,179,67,6,0,431,0.415,0.155,0.014
+M0137,2024-10-01,Announcement,Customers,Best Practices Post,Release notes & improvements,201,76,10,0,1614,0.125,0.047,0.006
+M0138,2024-10-03,Email,New Members,Academy Course,Don’t miss tomorrow’s AMA,174,65,15,0,1402,0.124,0.046,0.011
+M0139,2024-10-06,Email,Active Builders,Best Practices Post,New Academy course live,193,61,11,1,1700,0.114,0.036,0.006
+M0140,2024-10-09,DM,Contributors,Monthly Challenge,New Academy course live,171,66,6,0,1125,0.152,0.059,0.005
+M0141,2024-10-09,Announcement,Active Builders,Feature Launch,Release notes & improvements,182,56,10,1,1542,0.118,0.036,0.006
+M0142,2024-10-12,Announcement,New Members,Best Practices Post,Join this week’s challenge,186,73,6,1,894,0.208,0.082,0.007
+M0143,2024-10-14,Announcement,New Members,Monthly Challenge,Release notes & improvements,188,66,13,0,730,0.258,0.09,0.018
+M0144,2024-10-16,Email,Customers,Academy Course,New Academy course live,172,58,17,1,1406,0.122,0.041,0.012
+M0145,2024-10-19,Email,Active Builders,Academy Course,Release notes & improvements,222,55,13,0,1931,0.115,0.028,0.007
+M0146,2024-10-19,Email,Customers,Monthly Challenge,Top tips from the community,176,64,5,1,1958,0.09,0.033,0.003
+M0147,2024-10-21,DM,Active Builders,Academy Course,New Academy course live,179,66,9,0,1509,0.119,0.044,0.006
+M0148,2024-10-24,DM,Contributors,Academy Course,Top tips from the community,205,58,7,0,315,0.651,0.184,0.022
+M0149,2024-10-25,Email,Active Builders,Monthly Challenge,Join this week’s challenge,192,58,9,0,1475,0.13,0.039,0.006
+M0150,2024-10-27,DM,Active Builders,Feature Launch,Release notes & improvements,197,51,16,2,1092,0.18,0.047,0.015
+M0151,2024-10-30,Announcement,Contributors,Academy Course,New Academy course live,173,50,3,0,1429,0.121,0.035,0.002
+M0152,2024-10-31,Announcement,Active Builders,Live Event,Top tips from the community,175,50,9,0,579,0.302,0.086,0.016
+M0153,2024-11-03,Announcement,Customers,Best Practices Post,Top tips from the community,166,48,10,1,1165,0.142,0.041,0.009
+M0154,2024-11-06,Announcement,Customers,Academy Course,Release notes & improvements,191,62,7,0,665,0.287,0.093,0.011
+M0155,2024-11-07,Announcement,Lurkers,Live Event,Don’t miss tomorrow’s AMA,199,52,8,0,849,0.234,0.061,0.009
+M0156,2024-11-10,Email,Active Builders,Live Event,Top tips from the community,170,43,12,1,823,0.207,0.052,0.015
+M0157,2024-11-12,Announcement,Customers,Best Practices Post,Join this week’s challenge,181,63,13,0,593,0.305,0.106,0.022
+M0158,2024-11-12,Email,Active Builders,Live Event,New Academy course live,169,53,11,1,1555,0.109,0.034,0.007
+M0159,2024-11-14,Email,New Members,Live Event,Don’t miss tomorrow’s AMA,173,61,13,0,1550,0.112,0.039,0.008
+M0160,2024-11-17,Email,Customers,Feature Launch,Top tips from the community,182,62,9,1,1518,0.12,0.041,0.006
+M0161,2024-11-19,Announcement,New Members,Feature Launch,Top tips from the community,175,57,14,0,471,0.372,0.121,0.03
+M0162,2024-11-20,DM,Contributors,Monthly Challenge,Join this week’s challenge,191,62,12,0,1703,0.112,0.036,0.007
+M0163,2024-11-23,Email,Active Builders,Academy Course,New Academy course live,184,70,10,0,1360,0.135,0.051,0.007
+M0164,2024-11-25,Email,Contributors,Academy Course,Top tips from the community,186,65,7,1,926,0.201,0.07,0.008
+M0165,2024-11-27,Announcement,New Members,Academy Course,New Academy course live,180,51,10,0,1814,0.099,0.028,0.006
+M0166,2024-11-28,Announcement,New Members,Feature Launch,New Academy course live,163,72,13,0,552,0.295,0.13,0.024
+M0167,2024-11-30,Email,Active Builders,Best Practices Post,New Academy course live,195,50,11,1,922,0.211,0.054,0.012
+M0168,2024-12-04,Email,Active Builders,Academy Course,Release notes & improvements,173,72,2,0,1315,0.132,0.055,0.002
+M0169,2024-12-05,Email,Lurkers,Best Practices Post,Release notes & improvements,202,64,17,0,933,0.217,0.069,0.018
+M0170,2024-12-07,Email,Active Builders,Live Event,Don’t miss tomorrow’s AMA,183,63,13,0,1573,0.116,0.04,0.008
+M0171,2024-12-10,DM,Customers,Monthly Challenge,Don’t miss tomorrow’s AMA,186,61,5,0,647,0.287,0.094,0.008
+M0172,2024-12-10,Email,Customers,Monthly Challenge,Join this week’s challenge,180,63,14,0,1077,0.167,0.058,0.013
+M0173,2024-12-14,DM,New Members,Live Event,Top tips from the community,174,57,17,1,1173,0.148,0.049,0.014
+M0174,2024-12-14,Announcement,Customers,Academy Course,Release notes & improvements,187,64,5,0,1114,0.168,0.057,0.004
+M0175,2024-12-18,Announcement,Lurkers,Live Event,Release notes & improvements,184,53,8,0,1470,0.125,0.036,0.005
+M0176,2024-12-20,Email,Contributors,Best Practices Post,Don’t miss tomorrow’s AMA,192,63,13,0,1063,0.181,0.059,0.012
+M0177,2024-12-21,Email,Contributors,Best Practices Post,Top tips from the community,187,74,19,0,1288,0.145,0.057,0.015
+M0178,2024-12-23,Email,Customers,Live Event,Release notes & improvements,190,71,15,0,1744,0.109,0.041,0.009
+M0179,2024-12-25,DM,New Members,Academy Course,Top tips from the community,181,67,9,0,971,0.186,0.069,0.009
+M0180,2024-12-27,Email,Active Builders,Live Event,Top tips from the community,156,63,12,1,1890,0.083,0.033,0.006
+M0181,2024-12-29,Email,Lurkers,Academy Course,Top tips from the community,173,65,5,0,1052,0.164,0.062,0.005
+M0182,2025-01-01,Email,Active Builders,Academy Course,Join this week’s challenge,185,72,7,0,1253,0.148,0.057,0.006
+M0183,2025-01-01,Email,Active Builders,Academy Course,Top tips from the community,153,60,14,1,1876,0.082,0.032,0.007
+M0184,2025-01-03,Announcement,Active Builders,Feature Launch,Join this week’s challenge,187,65,12,0,1533,0.122,0.042,0.008
+M0185,2025-01-06,DM,Active Builders,Monthly Challenge,Release notes & improvements,179,73,11,0,1810,0.099,0.04,0.006
+M0186,2025-01-08,Email,Lurkers,Academy Course,Top tips from the community,176,53,14,0,528,0.333,0.1,0.027
+M0187,2025-01-11,DM,Active Builders,Academy Course,New Academy course live,189,59,9,0,556,0.34,0.106,0.016
+M0188,2025-01-12,DM,New Members,Best Practices Post,Top tips from the community,179,61,10,1,366,0.489,0.167,0.027
+M0189,2025-01-14,DM,Contributors,Monthly Challenge,Release notes & improvements,175,74,11,0,996,0.176,0.074,0.011
+M0190,2025-01-17,Email,New Members,Feature Launch,Join this week’s challenge,167,49,9,1,1641,0.102,0.03,0.005
+M0191,2025-01-17,Email,New Members,Monthly Challenge,Top tips from the community,160,58,9,1,741,0.216,0.078,0.012
+M0192,2025-01-20,Announcement,Contributors,Monthly Challenge,Top tips from the community,148,51,8,0,1039,0.142,0.049,0.008
+M0193,2025-01-23,DM,New Members,Academy Course,Join this week’s challenge,183,72,10,0,371,0.493,0.194,0.027
+M0194,2025-01-25,Announcement,Contributors,Monthly Challenge,Top tips from the community,188,59,6,1,830,0.227,0.071,0.007
+M0195,2025-01-27,Email,New Members,Best Practices Post,Release notes & improvements,165,64,12,0,611,0.27,0.105,0.02
+M0196,2025-01-27,DM,Active Builders,Monthly Challenge,New Academy course live,174,51,10,0,1294,0.134,0.039,0.008
+M0197,2025-01-31,Email,Active Builders,Live Event,Don’t miss tomorrow’s AMA,177,70,7,0,1332,0.133,0.053,0.005
+M0198,2025-01-31,Email,Contributors,Monthly Challenge,Don’t miss tomorrow’s AMA,194,58,7,0,1285,0.151,0.045,0.005
+M0199,2025-02-02,Email,Contributors,Feature Launch,Top tips from the community,169,63,5,0,484,0.349,0.13,0.01
+M0200,2025-02-05,Email,Active Builders,Academy Course,New Academy course live,189,71,11,1,1326,0.143,0.054,0.008
+M0201,2025-02-06,Email,Contributors,Best Practices Post,Release notes & improvements,165,62,8,0,1126,0.147,0.055,0.007
+M0202,2025-02-09,DM,Active Builders,Best Practices Post,Top tips from the community,171,54,5,1,1537,0.111,0.035,0.003
+M0203,2025-02-10,DM,New Members,Feature Launch,Release notes & improvements,166,47,12,1,1344,0.124,0.035,0.009
+M0204,2025-02-14,DM,New Members,Feature Launch,Don’t miss tomorrow’s AMA,203,65,10,0,630,0.322,0.103,0.016
+M0205,2025-02-16,Email,New Members,Feature Launch,Join this week’s challenge,174,51,8,0,1160,0.15,0.044,0.007
+M0206,2025-02-18,Email,New Members,Live Event,Release notes & improvements,177,60,8,1,1780,0.099,0.034,0.004
+M0207,2025-02-18,Email,New Members,Feature Launch,Join this week’s challenge,174,57,13,1,1910,0.091,0.03,0.007
+M0208,2025-02-21,Email,Contributors,Live Event,Join this week’s challenge,175,66,6,0,1139,0.154,0.058,0.005
+M0209,2025-02-22,Email,Customers,Feature Launch,Don’t miss tomorrow’s AMA,183,52,9,0,1663,0.11,0.031,0.005
+M0210,2025-02-26,Announcement,Contributors,Live Event,New Academy course live,159,55,15,0,1701,0.093,0.032,0.009
+M0211,2025-02-26,Announcement,Contributors,Best Practices Post,New Academy course live,183,63,20,0,1387,0.132,0.045,0.014
+M0212,2025-02-28,Email,Contributors,Best Practices Post,Top tips from the community,180,58,10,0,899,0.2,0.065,0.011
+M0213,2025-03-02,Email,Contributors,Monthly Challenge,Top tips from the community,205,49,8,0,1263,0.162,0.039,0.006
+M0214,2025-03-04,Announcement,Active Builders,Monthly Challenge,Release notes & improvements,186,75,7,1,731,0.254,0.103,0.01
+M0215,2025-03-07,DM,Customers,Academy Course,Release notes & improvements,201,55,11,1,1150,0.175,0.048,0.01
+M0216,2025-03-10,Email,New Members,Academy Course,Release notes & improvements,186,67,5,0,566,0.329,0.118,0.009
+M0217,2025-03-10,Email,New Members,Feature Launch,Release notes & improvements,154,47,9,0,1352,0.114,0.035,0.007
+M0218,2025-03-14,Email,Lurkers,Live Event,Top tips from the community,180,56,10,1,1110,0.162,0.05,0.009
+M0219,2025-03-14,DM,Lurkers,Best Practices Post,Release notes & improvements,175,47,6,0,1993,0.088,0.024,0.003
+M0220,2025-03-17,DM,Customers,Live Event,Top tips from the community,191,67,13,0,464,0.412,0.144,0.028
+M0221,2025-03-19,DM,Active Builders,Best Practices Post,Release notes & improvements,171,59,7,0,1363,0.125,0.043,0.005
+M0222,2025-03-20,Announcement,Active Builders,Academy Course,Don’t miss tomorrow’s AMA,192,57,9,2,1841,0.104,0.031,0.005
+M0223,2025-03-23,Email,Active Builders,Monthly Challenge,Release notes & improvements,163,58,13,1,1364,0.12,0.043,0.01
+M0224,2025-03-26,DM,Lurkers,Academy Course,Release notes & improvements,185,50,11,0,316,0.585,0.158,0.035
+M0225,2025-03-26,Announcement,Customers,Live Event,Top tips from the community,181,57,13,0,694,0.261,0.082,0.019
+M0226,2025-03-28,Email,Contributors,Live Event,Top tips from the community,194,68,14,1,1756,0.11,0.039,0.008
+M0227,2025-03-30,Email,Customers,Monthly Challenge,Top tips from the community,190,52,11,0,1796,0.106,0.029,0.006
+M0228,2025-04-02,DM,Customers,Live Event,Join this week’s challenge,163,45,9,1,865,0.188,0.052,0.01
+M0229,2025-04-03,Email,New Members,Feature Launch,New Academy course live,162,51,14,0,1726,0.094,0.03,0.008
+M0230,2025-04-06,Announcement,Customers,Live Event,Top tips from the community,180,58,13,0,1706,0.106,0.034,0.008
+M0231,2025-04-08,Email,New Members,Live Event,Don’t miss tomorrow’s AMA,178,49,6,0,1095,0.163,0.045,0.005
+M0232,2025-04-10,Email,Contributors,Academy Course,Release notes & improvements,181,60,9,1,1322,0.137,0.045,0.007
+M0233,2025-04-13,Announcement,New Members,Live Event,New Academy course live,195,51,5,0,1433,0.136,0.036,0.003
+M0234,2025-04-15,Email,New Members,Monthly Challenge,New Academy course live,198,61,4,0,1728,0.115,0.035,0.002
+M0235,2025-04-15,Announcement,New Members,Monthly Challenge,Don’t miss tomorrow’s AMA,171,60,7,2,300,0.57,0.2,0.023
+M0236,2025-04-17,Email,New Members,Feature Launch,New Academy course live,182,66,14,0,1815,0.1,0.036,0.008
+M0237,2025-04-19,Email,Customers,Live Event,Join this week’s challenge,180,51,12,0,557,0.323,0.092,0.022
+M0238,2025-04-23,Email,Lurkers,Academy Course,Don’t miss tomorrow’s AMA,151,85,9,0,1171,0.129,0.073,0.008
+M0239,2025-04-25,Email,Lurkers,Academy Course,Don’t miss tomorrow’s AMA,166,58,14,1,1485,0.112,0.039,0.009
+M0240,2025-04-25,Email,Active Builders,Live Event,Release notes & improvements,181,58,11,0,1824,0.099,0.032,0.006
+M0241,2025-04-29,Email,Contributors,Academy Course,Don’t miss tomorrow’s AMA,164,56,13,1,555,0.295,0.101,0.023
+M0242,2025-05-01,Email,Active Builders,Monthly Challenge,Don’t miss tomorrow’s AMA,167,66,12,0,476,0.351,0.139,0.025
+M0243,2025-05-03,Announcement,Lurkers,Academy Course,Release notes & improvements,185,57,13,0,1833,0.101,0.031,0.007
+M0244,2025-05-04,Announcement,Active Builders,Academy Course,New Academy course live,174,66,5,1,1480,0.118,0.045,0.003
+M0245,2025-05-06,DM,Contributors,Feature Launch,Release notes & improvements,160,65,8,0,734,0.218,0.089,0.011
+M0246,2025-05-08,Announcement,Lurkers,Feature Launch,Join this week’s challenge,164,76,7,1,1414,0.116,0.054,0.005
+M0247,2025-05-09,Announcement,New Members,Best Practices Post,Release notes & improvements,192,56,10,0,974,0.197,0.057,0.01
+M0248,2025-05-12,Email,Lurkers,Monthly Challenge,Release notes & improvements,206,58,7,0,1471,0.14,0.039,0.005
+M0249,2025-05-15,Email,Active Builders,Monthly Challenge,Release notes & improvements,174,55,8,1,763,0.228,0.072,0.01
+M0250,2025-05-15,DM,New Members,Academy Course,Don’t miss tomorrow’s AMA,169,53,5,1,1728,0.098,0.031,0.003
+M0251,2025-05-18,Email,Lurkers,Monthly Challenge,Don’t miss tomorrow’s AMA,186,65,13,1,524,0.355,0.124,0.025
+M0252,2025-05-19,Email,New Members,Monthly Challenge,New Academy course live,163,58,13,0,1576,0.103,0.037,0.008
+M0253,2025-05-23,Announcement,New Members,Academy Course,Top tips from the community,189,67,7,0,1693,0.112,0.04,0.004
+M0254,2025-05-24,Announcement,Active Builders,Best Practices Post,Join this week’s challenge,171,59,5,2,1521,0.112,0.039,0.003
+M0255,2025-05-26,DM,Contributors,Academy Course,Don’t miss tomorrow’s AMA,206,67,10,0,662,0.311,0.101,0.015
+M0256,2025-05-28,DM,Lurkers,Feature Launch,Release notes & improvements,175,70,11,0,753,0.232,0.093,0.015
+M0257,2025-05-31,DM,Lurkers,Feature Launch,Don’t miss tomorrow’s AMA,178,64,10,0,1879,0.095,0.034,0.005
+M0258,2025-06-02,Announcement,Active Builders,Academy Course,Top tips from the community,219,50,8,0,1478,0.148,0.034,0.005
+M0259,2025-06-02,Email,Customers,Live Event,Join this week’s challenge,205,50,10,0,877,0.234,0.057,0.011
+M0260,2025-06-04,DM,Lurkers,Live Event,Top tips from the community,198,66,8,0,770,0.257,0.086,0.01
+M0261,2025-06-06,Email,Active Builders,Feature Launch,Don’t miss tomorrow’s AMA,171,63,14,1,1087,0.157,0.058,0.013
+M0262,2025-06-09,Email,Customers,Best Practices Post,New Academy course live,169,50,13,1,1044,0.162,0.048,0.012
+M0263,2025-06-12,DM,New Members,Best Practices Post,Join this week’s challenge,175,62,12,0,805,0.217,0.077,0.015
+M0264,2025-06-14,Email,Customers,Monthly Challenge,Join this week’s challenge,181,56,7,0,1972,0.092,0.028,0.004
+M0265,2025-06-14,Email,Lurkers,Live Event,Top tips from the community,179,54,9,0,1522,0.118,0.035,0.006
+M0266,2025-06-16,Email,New Members,Live Event,Join this week’s challenge,166,69,14,0,1658,0.1,0.042,0.008
+M0267,2025-06-19,DM,Customers,Academy Course,Release notes & improvements,173,64,14,2,1500,0.115,0.043,0.009
+M0268,2025-06-20,Email,Active Builders,Live Event,Don’t miss tomorrow’s AMA,178,68,13,0,1530,0.116,0.044,0.008
+M0269,2025-06-22,Announcement,Customers,Monthly Challenge,Top tips from the community,177,57,5,0,724,0.244,0.079,0.007
+M0270,2025-06-26,DM,Active Builders,Live Event,Don’t miss tomorrow’s AMA,164,61,11,0,1447,0.113,0.042,0.008
+M0271,2025-06-27,DM,New Members,Feature Launch,Join this week’s challenge,198,67,10,0,326,0.607,0.206,0.031
+M0272,2025-06-30,Announcement,New Members,Best Practices Post,Don’t miss tomorrow’s AMA,192,65,10,0,1839,0.104,0.035,0.005
+M0273,2025-06-30,Email,Customers,Best Practices Post,Top tips from the community,178,44,6,0,1344,0.132,0.033,0.004
+M0274,2025-07-03,Email,Contributors,Feature Launch,Top tips from the community,159,66,14,1,628,0.253,0.105,0.022
+M0275,2025-07-06,Announcement,Lurkers,Feature Launch,Don’t miss tomorrow’s AMA,183,65,6,0,1204,0.152,0.054,0.005
+M0276,2025-07-06,Announcement,Contributors,Best Practices Post,Release notes & improvements,178,56,10,0,1322,0.135,0.042,0.008
+M0277,2025-07-08,Email,Lurkers,Monthly Challenge,Top tips from the community,172,55,6,1,1956,0.088,0.028,0.003
+M0278,2025-07-10,DM,New Members,Live Event,New Academy course live,156,72,6,3,1613,0.097,0.045,0.004
+M0279,2025-07-12,Email,Lurkers,Feature Launch,Top tips from the community,165,64,13,0,1076,0.153,0.059,0.012
+M0280,2025-07-15,Email,New Members,Academy Course,Join this week’s challenge,203,60,13,0,1459,0.139,0.041,0.009
+M0281,2025-07-18,Email,Contributors,Feature Launch,Join this week’s challenge,192,64,10,0,1471,0.131,0.044,0.007
+M0282,2025-07-18,Email,Contributors,Live Event,Join this week’s challenge,161,59,11,1,1808,0.089,0.033,0.006
+M0283,2025-07-21,Email,New Members,Live Event,Don’t miss tomorrow’s AMA,182,56,9,0,1801,0.101,0.031,0.005
+M0284,2025-07-24,Announcement,Lurkers,Academy Course,Don’t miss tomorrow’s AMA,203,59,13,1,732,0.277,0.081,0.018
+M0285,2025-07-25,Email,Active Builders,Best Practices Post,Join this week’s challenge,172,73,7,0,852,0.202,0.086,0.008
+M0286,2025-07-28,Email,Lurkers,Monthly Challenge,Top tips from the community,193,62,10,0,1438,0.134,0.043,0.007
+M0287,2025-07-30,Email,Customers,Academy Course,New Academy course live,160,52,8,0,1609,0.099,0.032,0.005
+M0288,2025-07-31,Email,New Members,Academy Course,Top tips from the community,170,66,19,1,1004,0.169,0.066,0.019
+M0289,2025-08-02,Email,Active Builders,Monthly Challenge,Don’t miss tomorrow’s AMA,193,61,8,1,1780,0.108,0.034,0.004
+M0290,2025-08-04,Email,New Members,Feature Launch,New Academy course live,182,64,11,2,650,0.28,0.098,0.017
+M0291,2025-08-07,DM,Contributors,Best Practices Post,Don’t miss tomorrow’s AMA,187,59,13,0,1063,0.176,0.056,0.012
+M0292,2025-08-08,Email,Contributors,Best Practices Post,New Academy course live,158,56,10,0,1940,0.081,0.029,0.005
+M0293,2025-08-09,Email,New Members,Feature Launch,New Academy course live,165,62,6,0,337,0.49,0.184,0.018
+M0294,2025-08-13,Email,Contributors,Live Event,Release notes & improvements,173,63,5,1,484,0.357,0.13,0.01
+M0295,2025-08-15,DM,New Members,Academy Course,Release notes & improvements,180,51,9,0,709,0.254,0.072,0.013
+M0296,2025-08-17,Email,Lurkers,Feature Launch,Join this week’s challenge,167,61,12,1,313,0.534,0.195,0.038
+M0297,2025-08-17,Email,Customers,Best Practices Post,Don’t miss tomorrow’s AMA,192,46,8,0,1616,0.119,0.028,0.005
+M0298,2025-08-21,Email,Active Builders,Monthly Challenge,Top tips from the community,173,63,6,0,1402,0.123,0.045,0.004
+M0299,2025-08-23,Email,Lurkers,Feature Launch,Top tips from the community,174,64,7,0,482,0.361,0.133,0.015
+M0300,2025-08-24,Email,Contributors,Live Event,Don’t miss tomorrow’s AMA,189,61,12,1,1406,0.134,0.043,0.009
+M0301,2025-08-27,Email,Customers,Feature Launch,Top tips from the community,191,54,14,0,741,0.258,0.073,0.019
+M0302,2025-08-27,DM,Lurkers,Best Practices Post,Don’t miss tomorrow’s AMA,178,73,13,0,1019,0.175,0.072,0.013
+M0303,2025-08-31,Email,New Members,Feature Launch,Join this week’s challenge,166,76,9,1,411,0.404,0.185,0.022
+M0304,2025-08-31,Announcement,Active Builders,Feature Launch,Top tips from the community,184,57,9,0,942,0.195,0.061,0.01
+M0305,2025-09-03,Email,New Members,Academy Course,Don’t miss tomorrow’s AMA,176,62,13,0,775,0.227,0.08,0.017
+M0306,2025-09-04,Email,New Members,Live Event,Release notes & improvements,174,56,15,0,884,0.197,0.063,0.017
+M0307,2025-09-08,DM,Lurkers,Live Event,New Academy course live,191,61,11,0,559,0.342,0.109,0.02
+M0308,2025-09-08,DM,Customers,Best Practices Post,Join this week’s challenge,191,70,14,0,1466,0.13,0.048,0.01
+M0309,2025-09-11,Announcement,Active Builders,Monthly Challenge,Release notes & improvements,166,58,10,1,569,0.292,0.102,0.018
+M0310,2025-09-12,Email,Lurkers,Academy Course,New Academy course live,208,70,10,1,476,0.437,0.147,0.021
+M0311,2025-09-15,DM,New Members,Monthly Challenge,Release notes & improvements,157,58,7,0,1422,0.11,0.041,0.005
+M0312,2025-09-17,Announcement,Active Builders,Best Practices Post,Don’t miss tomorrow’s AMA,204,60,3,1,947,0.215,0.063,0.003
+M0313,2025-09-18,Email,Contributors,Academy Course,Release notes & improvements,183,61,11,1,433,0.423,0.141,0.025
+M0314,2025-09-22,Email,Active Builders,Feature Launch,Release notes & improvements,166,76,10,1,1999,0.083,0.038,0.005
+M0315,2025-09-24,DM,Customers,Live Event,New Academy course live,195,73,12,2,569,0.343,0.128,0.021
+M0316,2025-09-26,Email,New Members,Feature Launch,Join this week’s challenge,186,46,8,0,1117,0.167,0.041,0.007
+M0317,2025-09-28,Announcement,Lurkers,Best Practices Post,Top tips from the community,186,67,10,1,1325,0.14,0.051,0.008
+M0318,2025-09-29,DM,Lurkers,Feature Launch,Top tips from the community,186,54,9,0,1550,0.12,0.035,0.006
+M0319,2025-10-02,Announcement,Customers,Monthly Challenge,Don’t miss tomorrow’s AMA,191,66,10,0,1064,0.18,0.062,0.009
+M0320,2025-10-03,Email,Active Builders,Academy Course,Release notes & improvements,185,67,8,0,1816,0.102,0.037,0.004
+M0321,2025-10-06,DM,Contributors,Academy Course,Join this week’s challenge,173,59,12,1,582,0.297,0.101,0.021
+M0322,2025-10-07,Email,Customers,Best Practices Post,Don’t miss tomorrow’s AMA,168,59,10,0,584,0.288,0.101,0.017
+M0323,2025-10-08,Email,New Members,Live Event,Join this week’s challenge,150,66,6,1,1723,0.087,0.038,0.003
+M0324,2025-10-10,DM,Contributors,Academy Course,Join this week’s challenge,175,48,7,0,869,0.201,0.055,0.008
+M0325,2025-10-13,Announcement,New Members,Academy Course,Release notes & improvements,195,55,8,1,872,0.224,0.063,0.009
+M0326,2025-10-16,Email,Contributors,Monthly Challenge,Don’t miss tomorrow’s AMA,189,50,6,0,1199,0.158,0.042,0.005
+M0327,2025-10-16,Email,Customers,Monthly Challenge,Top tips from the community,191,53,11,1,410,0.466,0.129,0.027
+M0328,2025-10-18,Email,Contributors,Feature Launch,Top tips from the community,158,52,14,0,1320,0.12,0.039,0.011
+M0329,2025-10-20,Email,Customers,Academy Course,Don’t miss tomorrow’s AMA,189,66,6,0,536,0.353,0.123,0.011
+M0330,2025-10-23,DM,New Members,Monthly Challenge,Don’t miss tomorrow’s AMA,188,64,7,0,581,0.324,0.11,0.012
+M0331,2025-10-25,Email,New Members,Best Practices Post,Top tips from the community,165,58,4,0,590,0.28,0.098,0.007
+M0332,2025-10-28,Email,Lurkers,Live Event,Top tips from the community,189,60,12,0,897,0.211,0.067,0.013
+M0333,2025-10-28,DM,Customers,Monthly Challenge,Join this week’s challenge,173,64,9,1,1855,0.093,0.035,0.005
+M0334,2025-10-30,Announcement,Lurkers,Monthly Challenge,Join this week’s challenge,167,72,10,1,824,0.203,0.087,0.012
+M0335,2025-11-02,Email,Lurkers,Live Event,Release notes & improvements,170,64,8,1,1639,0.104,0.039,0.005
+M0336,2025-11-04,Email,Contributors,Monthly Challenge,Release notes & improvements,171,54,8,0,579,0.295,0.093,0.014
+M0337,2025-11-06,DM,Active Builders,Monthly Challenge,Don’t miss tomorrow’s AMA,182,47,5,1,656,0.277,0.072,0.008
+M0338,2025-11-08,Email,Contributors,Academy Course,Top tips from the community,183,50,8,2,1193,0.153,0.042,0.007
+M0339,2025-11-11,Email,Active Builders,Monthly Challenge,Top tips from the community,169,53,7,0,355,0.476,0.149,0.02
+M0340,2025-11-13,DM,New Members,Academy Course,New Academy course live,147,65,14,1,1853,0.079,0.035,0.008
+M0341,2025-11-14,DM,Lurkers,Live Event,Join this week’s challenge,171,51,8,0,1121,0.153,0.045,0.007
+M0342,2025-11-17,Email,New Members,Academy Course,Don’t miss tomorrow’s AMA,198,52,11,2,1621,0.122,0.032,0.007
+M0343,2025-11-19,DM,New Members,Feature Launch,Join this week’s challenge,195,71,13,1,540,0.361,0.131,0.024
+M0344,2025-11-20,DM,Lurkers,Monthly Challenge,New Academy course live,151,65,10,0,849,0.178,0.077,0.012
+M0345,2025-11-22,Announcement,New Members,Monthly Challenge,Join this week’s challenge,211,66,4,2,596,0.354,0.111,0.007
+M0346,2025-11-23,Email,Contributors,Best Practices Post,Top tips from the community,184,66,6,1,608,0.303,0.109,0.01
+M0347,2025-11-25,Announcement,Customers,Academy Course,New Academy course live,191,55,8,1,889,0.215,0.062,0.009
+M0348,2025-11-29,Email,Lurkers,Monthly Challenge,New Academy course live,193,67,9,0,558,0.346,0.12,0.016
+M0349,2025-12-01,DM,Lurkers,Live Event,Top tips from the community,160,76,7,1,1319,0.121,0.058,0.005
+M0350,2025-12-02,DM,Contributors,Academy Course,Join this week’s challenge,174,71,14,0,1988,0.088,0.036,0.007
+M0351,2025-12-05,Announcement,Contributors,Monthly Challenge,New Academy course live,175,73,15,0,1101,0.159,0.066,0.014
+M0352,2025-12-05,DM,Active Builders,Live Event,Join this week’s challenge,170,63,9,0,495,0.343,0.127,0.018
+M0353,2025-12-07,Email,Customers,Live Event,Top tips from the community,188,66,8,1,379,0.496,0.174,0.021
+M0354,2025-12-10,DM,New Members,Best Practices Post,Join this week’s challenge,182,55,10,0,1694,0.107,0.032,0.006
+M0355,2025-12-11,Email,Active Builders,Feature Launch,Top tips from the community,188,49,12,0,1812,0.104,0.027,0.007
+M0356,2025-12-13,Announcement,Active Builders,Live Event,Top tips from the community,185,52,4,1,803,0.23,0.065,0.005
+M0357,2025-12-16,Email,Contributors,Best Practices Post,New Academy course live,200,49,10,0,1837,0.109,0.027,0.005
+M0358,2025-12-19,Email,Contributors,Monthly Challenge,Join this week’s challenge,170,73,12,0,1873,0.091,0.039,0.006
+M0359,2025-12-19,DM,Contributors,Feature Launch,Top tips from the community,181,49,9,1,1473,0.123,0.033,0.006
+M0360,2025-12-21,Email,Customers,Live Event,Don’t miss tomorrow’s AMA,193,52,4,0,538,0.359,0.097,0.007
+M0361,2025-12-25,DM,New Members,Monthly Challenge,Join this week’s challenge,189,68,12,0,484,0.39,0.14,0.025
+M0362,2025-12-26,DM,New Members,Best Practices Post,Top tips from the community,170,78,13,0,569,0.299,0.137,0.023
+M0363,2025-12-28,DM,Customers,Best Practices Post,Don’t miss tomorrow’s AMA,196,57,15,0,1063,0.184,0.054,0.014
+M0364,2025-12-30,Announcement,Contributors,Live Event,Release notes & improvements,191,60,15,0,1834,0.104,0.033,0.008
+M0365,2026-01-01,Email,Active Builders,Academy Course,Top tips from the community,185,49,14,1,427,0.433,0.115,0.033
+M0366,2026-01-04,Email,Active Builders,Monthly Challenge,Don’t miss tomorrow’s AMA,173,57,9,1,1835,0.094,0.031,0.005
+M0367,2026-01-04,Email,Lurkers,Academy Course,New Academy course live,175,70,11,0,1981,0.088,0.035,0.006
+M0368,2026-01-07,Email,Active Builders,Academy Course,Join this week’s challenge,178,58,10,3,1806,0.099,0.032,0.006
+M0369,2026-01-10,Email,Lurkers,Live Event,New Academy course live,185,48,12,0,879,0.21,0.055,0.014
+M0370,2026-01-10,DM,Lurkers,Live Event,Release notes & improvements,155,60,10,0,408,0.38,0.147,0.025
+M0371,2026-01-14,Email,Lurkers,Best Practices Post,Don’t miss tomorrow’s AMA,186,55,18,0,878,0.212,0.063,0.021
+M0372,2026-01-14,Email,Contributors,Academy Course,Release notes & improvements,196,65,13,0,589,0.333,0.11,0.022
+M0373,2026-01-18,Announcement,Customers,Feature Launch,New Academy course live,159,47,6,0,1372,0.116,0.034,0.004
+M0374,2026-01-20,Announcement,Contributors,Feature Launch,New Academy course live,187,52,15,1,789,0.237,0.066,0.019
+M0375,2026-01-20,Email,Contributors,Best Practices Post,New Academy course live,220,57,16,0,1285,0.171,0.044,0.012
+M0376,2026-01-23,Email,Active Builders,Academy Course,Top tips from the community,168,64,8,0,445,0.378,0.144,0.018
+M0377,2026-01-24,Announcement,Contributors,Academy Course,New Academy course live,180,61,9,1,366,0.492,0.167,0.025
+M0378,2026-01-28,DM,New Members,Academy Course,Join this week’s challenge,166,68,6,0,388,0.428,0.175,0.015
+M0379,2026-01-28,Email,Active Builders,Best Practices Post,Don’t miss tomorrow’s AMA,190,45,11,0,1012,0.188,0.044,0.011
+M0380,2026-02-01,Email,Active Builders,Feature Launch,Release notes & improvements,169,54,13,0,1875,0.09,0.029,0.007
+M0381,2026-02-03,Announcement,Lurkers,Feature Launch,Join this week’s challenge,210,50,9,0,1573,0.134,0.032,0.006
+M0382,2026-02-04,Email,Customers,Feature Launch,Don’t miss tomorrow’s AMA,179,77,11,0,730,0.245,0.105,0.015
+M0383,2026-02-07,Announcement,Active Builders,Academy Course,Release notes & improvements,187,58,13,1,1851,0.101,0.031,0.007
+M0384,2026-02-09,DM,New Members,Monthly Challenge,Top tips from the community,173,65,8,1,1352,0.128,0.048,0.006
+M0385,2026-02-09,Email,Active Builders,Monthly Challenge,Join this week’s challenge,179,58,13,0,1126,0.159,0.052,0.012
+M0386,2026-02-12,Announcement,Lurkers,Academy Course,Join this week’s challenge,185,53,8,0,944,0.196,0.056,0.008
+M0387,2026-02-13,Email,Customers,Feature Launch,New Academy course live,199,54,9,0,1176,0.169,0.046,0.008
+M0388,2026-02-16,Email,New Members,Monthly Challenge,New Academy course live,184,68,9,0,324,0.568,0.21,0.028
+M0389,2026-02-17,DM,New Members,Monthly Challenge,Release notes & improvements,158,56,7,0,1293,0.122,0.043,0.005
+M0390,2026-02-20,Email,Customers,Live Event,Release notes & improvements,195,54,11,0,920,0.212,0.059,0.012
+M0391,2026-02-23,Announcement,Active Builders,Best Practices Post,Release notes & improvements,169,79,8,0,611,0.277,0.129,0.013
+M0392,2026-02-24,DM,New Members,Feature Launch,Release notes & improvements,195,55,8,1,1574,0.124,0.035,0.005
+M0393,2026-02-26,Email,Active Builders,Live Event,Don’t miss tomorrow’s AMA,197,66,15,0,442,0.446,0.149,0.034
+M0394,2026-02-28,Email,New Members,Monthly Challenge,Top tips from the community,181,59,8,2,1926,0.094,0.031,0.004
+M0395,2026-03-01,Email,New Members,Monthly Challenge,New Academy course live,179,63,6,1,1019,0.176,0.062,0.006
+M0396,2026-03-03,DM,Lurkers,Academy Course,Release notes & improvements,156,52,14,0,345,0.452,0.151,0.041
+M0397,2026-03-05,Email,Lurkers,Live Event,Join this week’s challenge,165,74,6,0,349,0.473,0.212,0.017
+M0398,2026-03-09,DM,Lurkers,Best Practices Post,Release notes & improvements,183,67,7,2,1019,0.18,0.066,0.007
+M0399,2026-03-09,Announcement,Contributors,Live Event,Release notes & improvements,194,68,7,2,1548,0.125,0.044,0.005
